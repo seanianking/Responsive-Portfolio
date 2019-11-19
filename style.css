@@ -1,6 +1,43 @@
 img {
     width: 100%;
 }
-#logo {
+
+header {
+    width: 100%;
+    margin-bottom: 25px;
+    position: absolute;
+    top: 0px;
     background-color: teal;
+    text-align: center;
+}
+#name {
+    background-color: teal;
+    color: #ffffff;
+    float: left;
+    padding: 20px;
+    width: 150px;
+    left: 190px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+}
+#about{
+    float: right;
+    text-align: center;
+    margin: 25px;
+
+}
+#portfolio {
+    float: right;
+    text-align: center;
+    margin: 25px;
+
+}
+
+#contact{
+    float: right;
+    text-align: center;
+    margin: 25px;
+    
 }
