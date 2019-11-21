@@ -1,43 +1,40 @@
 img {
     width: 100%;
 }
-
-header {
-    width: 100%;
-    margin-bottom: 25px;
-    position: absolute;
-    top: 0px;
+.namebox {
     background-color: teal;
-    text-align: center;
-}
-#name {
-    background-color: teal;
-    color: #ffffff;
-    float: left;
-    padding: 20px;
-    width: 150px;
-    left: 190px;
-    margin: 0 auto;
-    position: relative;
-    text-align: center;
-    font-size: 25px;
-}
-#about{
-    float: right;
-    text-align: center;
-    margin: 25px;
-
-}
-#portfolio {
-    float: right;
-    text-align: center;
-    margin: 25px;
-
+    padding: 15px;
+    font-size: 30pt;
 }
 
-#contact{
-    float: right;
-    text-align: center;
-    margin: 25px;
-    
+.rightside {
+    color:gray !important;
+}
+body {
+    background-image: url(https://www.wallsauce.com/uploads/wallsauce-com/images/products/web/Imagesource/large/is098qz41.jpg);
+    min-height: 100vh;
+}
+.container {
+    background: white;
+}
+p {
+    font-size: 20px;
+}
+h1 {
+    color: teal;
+    padding: 15px;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 4px solid rgba(0, 0, 0, 0.1);
+  }
+.full {
+    height: 100vh;
+}
+.footer {
+    background-color: slategray;
+    color: white;
+    padding: 15px; 
 }
