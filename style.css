@@ -1,5 +1,7 @@
 img {
-    width: 100%;
+    width: 375px;
+    float: left;
+    padding: 15px;
 }
 .namebox {
     background-color: teal;
