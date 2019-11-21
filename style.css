@@ -36,7 +36,10 @@ hr {
     height: 100vh;
 }
 .footer {
+    position: fixed;
     background-color: slategray;
     color: white;
     padding: 15px; 
+    width: 100%;
+    bottom: 0px;
 }
