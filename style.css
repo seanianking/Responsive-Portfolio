@@ -69,3 +69,6 @@ textarea {
     width: auto;
   
 }
+.finder {
+    background-color: lightgray !important;
+}
