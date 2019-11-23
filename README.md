@@ -11,9 +11,13 @@ The index page includes the *About Me* section describing myself.
 
 At the top right of that page you will find links to the *Portfolio* and *Contact* pages. As the projects are completed for the portfolio, the images will be replaced to show something more relevant and the titles of the projects will be included rather than the current "project one, project two etc." placeholders
 
+
 A screenshot of the portfolio page:
+
 ![Portfolio page screenshot](Portfolio-Screenshot.png)
+
 a screenshot of the contact page:
+
 ![Contact page screenshot](Contact-Screenshot.png)
 
 ## Credits
